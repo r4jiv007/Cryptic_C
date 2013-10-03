@@ -1,0 +1,6 @@
+#!/bin/bash
+./round1
+
+echo
+echo "Press any key to exit..."
+read
